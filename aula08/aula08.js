@@ -59,3 +59,4 @@ let testeClass = document.getElementsByClassName('box')
 //console.log(testeClass)
 //document.write(testeClass[0].textContent)
 //document.write(testeClass[1].textContent)
+// Bom dia
